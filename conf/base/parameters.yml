@@ -1,0 +1,3 @@
+example_test_data_ratio: 0.15
+example_num_train_iter: 500
+example_learning_rate: 0.01
